@@ -1,0 +1,15 @@
+{
+  "name": "discordpointsbot",
+  "version": "1.0.0",
+  "main": "DiscordPointsBot.js",
+  "description": "Discord bot to manage a points system written in node",
+  "scripts": {
+    "start": "node DiscordPointsBot.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2"
+  } 
+}
